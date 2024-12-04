@@ -41,7 +41,7 @@ const Contact = () => {
       initial={{ opacity: 0 }}
       animate={{
         opacity: 1,
-        transition: { delay: 1.4, duration: 0.4, ease: "easeIn" },
+        transition: { delay: .4, duration: 0.4, ease: "easeIn" },
       }}
       className='py-6'
     >
@@ -82,7 +82,7 @@ const Contact = () => {
             </form>
           </div>
           <div className='flex-1 flex items-center xl:justify-end order-1 xl:order-none mb-8 xl:mb-0'>
-            <ul className=''>
+            <ul className='flex flex-col gap-6'>
               {info.map((item, index) => {
                 return (
                   <li key={index} className="flex items-center gap-6">
