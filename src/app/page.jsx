@@ -1,7 +1,6 @@
-// import Photo from "@/components/Photo";
+import Photo from "@/components/Photo";
 import Social from "@/components/Social";
 import Stats from "@/components/Stats";
-import TempPhoto from "@/components/tempPhoto";
 import { Button } from "@/components/ui/button";
 import { FiDownload } from "react-icons/fi";
 
@@ -35,8 +34,8 @@ const Home = () => {
             </div>
           </div>
           <div className="order-1 xl:order-none mb-8 xl:mb-0">
-            {/* <Photo/> */}
-            <TempPhoto/>
+            <Photo/>
+            {/* <TempPhoto/> */}
           </div>
         </div>
       </div>

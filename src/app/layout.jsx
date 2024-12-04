@@ -23,10 +23,8 @@ export default function RootLayout({ children }) {
       <body className={`${jetbrainsMono.variable} antialiased`}>
         <Header />
         {/* Feature hold until farmer motion  */}
-        {/* <StairTransition/> */}
-        {/* <PageTransition>
-          {children}
-          </PageTransition> */}
+        {/* <StairTransition />
+        <PageTransition>{children}</PageTransition> */}
         {children}
       </body>
     </html>

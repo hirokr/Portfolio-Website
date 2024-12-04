@@ -1,5 +1,5 @@
 "use client";
-import { AnimationPresence, motion } from "farmer-motion";
+import { AnimatePresence, motion } from "framer-motion";
 import Image from "next/image";
 
 const Photo = () => {
