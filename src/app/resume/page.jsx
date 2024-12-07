@@ -26,7 +26,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 
 const about = {
   title: "About me",
-  Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  Description: "Creating something is the ultimate fun",
   info: [
     { fieldName: "Name", fieldValue: "Hirok Roy Rahul" },
     { fieldName: "Phone", fieldValue: "(+880) 178 014 1196" },
@@ -41,7 +41,7 @@ const about = {
 const experiences = {
   icon: "/assets/resume/badge.svg",
   title: "My experiences",
-  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  description: "Working on various projects and with companies to solve real life problems.",
   items: [
     {
       company: "Nebulae-Soft",
@@ -69,7 +69,7 @@ const experiences = {
 const Education = {
   icon: "/assets/resume/badge.svg",
   title: "My education",
-  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  description: "Currently a student and learning new technologies daily.",
   items: [
     {
       institution: "BRACU",
@@ -96,7 +96,7 @@ const Education = {
 
 const skills = {
   title: "My skills",
-  description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+  description: "Skilled in Python, MERN stack, Deep Learning, and video editing, with diverse project experience across automation, AI, web development, and content creation",
   skillList: [
     { icon: <FaHtml5 />, name: "HTML5" },
     { icon: <FaCss3 />, name: "CSS3" },

@@ -8,26 +8,26 @@ const services = [
   {
     num: "01",
     title: "Web Development",
-    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
-    href: "",
+    description: "Experienced MERN Stack Developer with 2 years of expertise in building robust and dynamic web applications. Skilled in crafting innovative solutions, I have completed various projects showcasing my proficiency in full-stack development.",
+    href: "/contact",
   },
   {
     num: "02",
     title: "Video Editing",
-    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
-    href: "",
+    description: "Professional Video Editor with 2 years of experience, skilled in crafting high-quality content through hands-on expertise in a variety of professional video editing projects",
+    href: "/contact",
   },
   {
     num: "03",
     title: "Python Automation",
-    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
-    href: "",
+    description: "Automation Specialist with 3 years of Python expertise/. I excel at streamlining workflows and building dynamic web applications, demonstrated through a diverse portfolio of projects",
+    href: "/contact",
   },
   {
     num: "04",
     title: "Data Science",
-    description: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
-    href: "",
+    description: "Deep Learning enthusiast with 1 year of experience, specializing in training and fine-tuning various models to solve real-world problems effectively",
+    href: "/contact",
   },
 ];
 
